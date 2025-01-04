@@ -13,8 +13,7 @@ The script requires Python 3 and the following package:
 numpy
 Install the required package using pip:
 
-bash
-Копіювати код
+
 pip install numpy
 Usage
 Input List:
@@ -26,8 +25,7 @@ Function:
 Call the calculate(lst) function, passing the list of 9 numbers as an argument.
 Example:
 
-python
-Копіювати код
+
 from your_script_name import calculate
 
 lst = [0, 1, 2, 3, 4, 5, 6, 7, 8]
